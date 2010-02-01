@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="test"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.launching.macosx.MacOSXType/JVM 1.6.0 (MacOS X Default)"/>
+	<classpathentry kind="lib" path="/third_party lib/aopalliance.jar"/>
+	<classpathentry kind="lib" path="/third_party lib/guice-2.0.jar"/>
+	<classpathentry kind="lib" path="/third_party lib/guice-multibindings-2.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
